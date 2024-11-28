@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, MyProject
+This is My First Git Repository.
+Author - ANANYA BHARTI
 
 <!--
 **ananyabharti01/ananyabharti01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
